@@ -2,6 +2,10 @@
 # NIM : 2408163
 # Kelas: RPL-1C
 
+
+
+#menghitung rata- rata
+
 def nilai_ratarata(*angka):
     if len(angka) == 0:
         return 0
